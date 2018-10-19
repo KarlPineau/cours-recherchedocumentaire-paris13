@@ -30,9 +30,9 @@
 - Lien vers l'article de Fdesouche sur le fils de Christiane Taubira en prison : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
 - Lien vers l'article du Monde "Pourquoi certaines figures scientifiques sont climato-sceptiques ?" : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
 
-## Kartable
-- Lien vers l'article du Monde sur l'application Kartable : https://lemonde.fr/m-perso/article/2017/01/14/avec-kartable-les-cours-c-est-dans-la-poche_5062616_4497916.html
-- [Article d'Acrimed](https://www.acrimed.org/Dans-Le-Monde-publicite-dissimulee-pour-Kartable)
+## Le Figaro & les Rafales
+- Lien vers l'article du Figaro sur les Rafales : http://www.lefigaro.fr/societes/2015/02/12/20005-20150212ARTFIG00513-rafale-le-chasseur-ultrapolyvalent-par-excellence.php
+- [Article d'Acrimed](https://www.acrimed.org/Les-Dassault-fetent-la-vente-du-Rafale)
 - [Infographie des propriétaires de média français](https://www.monde-diplomatique.fr/cartes/PPA)
 
 ## Nouvelle grille d'analyse des articles :
@@ -61,5 +61,42 @@
   - L’information est-elle claire ?
   - Les sources sont-elles indiquées ?
 
+## Projets :
 
+**Les sujets :**
+- Booba vs. Kaaris ;
+- L’affaire Adama Traoré ;
+- La démission de N. Hulot ;
+- La tenue de Serena Williams ;
+- Jay Z et Beyoncé au Louvre.
 
+**Règles de composition des groupes :**
+- 5 sujets au choix ;
+- Groupe de 4 ou 5 personnes. 5 personnes maximum ;
+- 1 sujet peut-être pris deux fois.
+
+**Ce qu'il s'agit d'expliquer :**
+- Quels sont les ENJEUX ?
+  - Pourquoi est-ce qu’on en parle ?
+  - Qu’est-ce que cela dit de nous d’en parler ?
+- Quels sont les FAITS ?
+- Quelles sont les CONSÉQUENCES ?
+- Quels sont les DIFFÉRENTS NIVEAUX DE LECTURE du sujet ?
+
+**La vidéo exemple du Monde :** https://www.youtube.com/watch?v=M5f6sdRqOI0
+
+**Ce que vous pouvez utiliser comme supports :**
+- Un Powerpoint (exporté en version PDF)
+- Un Prezi 
+- Une mindmap
+- Un Wordpress.com
+- Des maquettes (Sketch, Axure)
+- Un site codé en HTML 
+- Une vidéo
+
+**Soutenances :**
+- Le 17 décembre ou le 14 janvier
+- 20 minutes par groupe
+- 10 minutes de présentation
+- 10 minutes de questions du jury
+- Jury composé de 3 personnes (Mme Labelle, Mr Pineau, Mme Beaulieu)
