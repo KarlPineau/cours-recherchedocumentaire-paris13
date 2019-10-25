@@ -2,8 +2,6 @@
 
 # Séance 1 : Source et qualité de l’information
 
-- [Lien vers le support de cours](https://docs.google.com/presentation/d/17ZoCWqm5Ygx7ShTOuRb3Z26zjv-myHPXVBWWOKHdfyU/edit?usp=sharing)
-
 ## Exercice sur l'article du Figaro :
 - Lien vers l'article du Figaro : https://www.lefigaro.fr/economie/le-scan-eco/2019/03/08/29001-20190308ARTFIG00019-les-inegalites-femmes-hommes-dans-le-monde.php
 
@@ -57,13 +55,6 @@
 
 ## Projets :
 
-**Les sujets :**
-- Booba vs. Kaaris ;
-- L’affaire Adama Traoré ;
-- La démission de N. Hulot ;
-- La tenue de Serena Williams ;
-- Jay Z et Beyoncé au Louvre.
-
 **Règles de composition des groupes :**
 - 5 sujets au choix ;
 - Groupe de 4 ou 5 personnes. 5 personnes maximum ;
@@ -94,3 +85,5 @@
 - 10 minutes de présentation
 - 10 minutes de questions du jury
 - Jury composé de 2 personnes (Mme Labelle, Mr Pineau)
+
+- [Lien vers le support de cours](https://docs.google.com/presentation/d/17ZoCWqm5Ygx7ShTOuRb3Z26zjv-myHPXVBWWOKHdfyU/edit?usp=sharing)
