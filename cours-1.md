@@ -2,7 +2,32 @@
 
 # Séance 1 : Source et qualité de l’information
 
-- [Lien vers le support de cours](https://docs.google.com/presentation/d/1jGuagLt0Wy0h72RO3xe6peqa_LRcDscCyDVnSjEv6Cg/edit?usp=sharing)
+- [Lien vers le support de cours](https://docs.google.com/presentation/d/17ZoCWqm5Ygx7ShTOuRb3Z26zjv-myHPXVBWWOKHdfyU/edit?usp=sharing)
+
+## Exercice sur l'article du Figaro :
+- Lien vers l'article du Figaro : https://www.lefigaro.fr/economie/le-scan-eco/2019/03/08/29001-20190308ARTFIG00019-les-inegalites-femmes-hommes-dans-le-monde.php
+
+## Grille d'analyse de la qualité d'une source :
+- [Référentiel de qualité de l’information par le CTREQ](http://www.ctreq.qc.ca/wp-content/uploads/2016/01/2_Qualit%C3%A9-de-linformation.pdf)
+- [Vidéo d'analyse](https://youtu.be/nQ3aaPaHCB4)
+- Lien vers l'article de Fdesouche sur le fils de Christiane Taubira en prison : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
+- Lien vers l'article du Monde "Pourquoi certaines figures scientifiques sont climato-sceptiques ?" : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
+
+## Exercice sur l'article de Médiapart : 
+- Lien vers l'article de Medipart : https://www.mediapart.fr/journal/france/190718/l-affaire-benalla-seme-la-panique-l-elysee
+- Objectif : Répondre à ces questions :
+  - Qui (auteur) ? Où (média) ?
+  - Quelles informations donne cet article ?
+  - Le journaliste cite-t-il ses sources ?
+  - D’où viennent les informations / quelles sont les sources ?
+  - Ces sources sont-elles fiables ? Pourquoi ?
+
+## Concevoir un schéma :
+- Les logiciels possibles :
+  - [MindMeister](https://www.mindmeister.com/fr)
+  - [Coggle](https://coggle.it/)
+  - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
+  - [Google Drawings](https://docs.google.com/drawings/)
 
 ## Exercice sur l'article du Point :
 - Lien vers l'article du Point : http://www.lepoint.fr/monde/pour-16-millions-d-americains-le-lait-chocolate-vient-de-vaches-marron-17-06-2017-2136082_24.php
@@ -16,50 +41,19 @@
   - Répertoriez les informations que vous collectez dans un document :
     - Les articles qui en parlent, avec leur date, leurs auteurs
     - Quel article fait référence à quel autre article ?
-    
-## Concevoir un schéma :
-- Les logiciels possibles :
-  - [MindMeister](https://www.mindmeister.com/fr)
-  - [Coggle](https://coggle.it/)
-  - [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
-  - [Google Drawings](https://docs.google.com/drawings/)
-  
-## Grille d'analyse de la qualité d'une source :
-- [Référentiel de qualité de l’information par le CTREQ](http://www.ctreq.qc.ca/wp-content/uploads/2016/01/2_Qualit%C3%A9-de-linformation.pdf)
-- [Vidéo d'analyse](https://youtu.be/nQ3aaPaHCB4)
-- Lien vers l'article de Fdesouche sur le fils de Christiane Taubira en prison : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
-- Lien vers l'article du Monde "Pourquoi certaines figures scientifiques sont climato-sceptiques ?" : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
+- Vidéo de HorizonGull : https://www.youtube.com/watch?v=nQ3aaPaHCB4
+
+## Le biais de confirmation :
+- L'article de Fdesouche : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
+- L'article du blog Passeur de sciences : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
+
+## Zététique :
+- Vidéo de La Tronche en Biais : https://www.youtube.com/watch?v=-dr5It4xr98
 
 ## Le Figaro & les Rafales
 - Lien vers l'article du Figaro sur les Rafales : http://www.lefigaro.fr/societes/2015/02/12/20005-20150212ARTFIG00513-rafale-le-chasseur-ultrapolyvalent-par-excellence.php
 - [Article d'Acrimed](https://www.acrimed.org/Les-Dassault-fetent-la-vente-du-Rafale)
 - [Infographie des propriétaires de média français](https://www.monde-diplomatique.fr/cartes/PPA)
-
-## Nouvelle grille d'analyse des articles :
-- Fiabilité d’un site : puis-je faire confiance à ce site ?
-- Validité de l’information : l’information proposée par ce site est-elle de qualité ?
-- Pertinence de l’information : répond-elle à la question que je me pose ?
-- Qui ?
-  - Qui est l’auteur du site ?
-  - Peut-on le contacter ?
-  - Est-il spécialiste du domaine concerné ?
-  - S’exprime-t-il en son nom ou au nom d’une institution ?
-- Quoi ?
-  - Est-ce un site personnel, institutionnel, d’une association, collaboratif ?
-  - Quelle est la compétence reconnue ?
-  - Propose-t-il des liens vers des sites fiables/sont-ils actifs ?
-- Où ?
-  - Quelles sont les limites géographiques de l’information ?
-  - *Si on cherche des informations juridiques, attention de ne pas sélectionner un site belge ou canadien (donc avec une législation différente) !*
-- Quand ?
-  - A quelle date a été publiée l’information ? 
-  - A quelle date a-t-elle été mise à jour ?
-  - *En cas de recherche d’informations d’actualité, la date de mise à jour influe directement sur sa validité. Si on recherche une définition, la date de mise à jour importe peu.*
-- Pourquoi ?
-  - Quel est l’objectif du site ? (informer, commercialiser des produits, convaincre…)
-- Comment ?
-  - L’information est-elle claire ?
-  - Les sources sont-elles indiquées ?
 
 ## Projets :
 
@@ -95,8 +89,8 @@
 - Une vidéo
 
 **Soutenances :**
-- Le 17 décembre ou le 14 janvier
+- Le 20 décembre
 - 20 minutes par groupe
 - 10 minutes de présentation
 - 10 minutes de questions du jury
-- Jury composé de 3 personnes (Mme Labelle, Mr Pineau, Mme Beaulieu)
+- Jury composé de 2 personnes (Mme Labelle, Mr Pineau)
