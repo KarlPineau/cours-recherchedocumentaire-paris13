@@ -2,7 +2,7 @@
 
 # Séance 2 : Recherche documentaire sur le web
 
-- [Lien vers le support de cours](https://docs.google.com/presentation/d/1u6r4A6s8LzOE51u62BNTACGTTCWpkv6VUrFjT6kzR5Y/edit?usp=sharing)
+- [Lien vers le support de cours](https://docs.google.com/presentation/d/1bUX570v1GPGlEX8h73DTlHuYKI9YWF31B-ewway-z_8/edit?usp=sharing)
 
 ## Les questions qu’il faut se poser avant de se lancer :
 - Quelle est la nature du travail à produire ?
