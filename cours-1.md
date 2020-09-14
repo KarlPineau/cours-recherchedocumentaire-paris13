@@ -5,12 +5,6 @@
 ## Exercice sur l'article du Figaro :
 - Lien vers l'article du Figaro : https://www.lefigaro.fr/economie/le-scan-eco/2019/03/08/29001-20190308ARTFIG00019-les-inegalites-femmes-hommes-dans-le-monde.php
 
-## Grille d'analyse de la qualité d'une source :
-- [Référentiel de qualité de l’information par le CTREQ](http://www.ctreq.qc.ca/wp-content/uploads/2016/01/2_Qualit%C3%A9-de-linformation.pdf)
-- [Vidéo d'analyse](https://youtu.be/nQ3aaPaHCB4)
-- Lien vers l'article de Fdesouche sur le fils de Christiane Taubira en prison : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
-- Lien vers l'article du Monde "Pourquoi certaines figures scientifiques sont climato-sceptiques ?" : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
-
 ## Exercice sur l'article de Médiapart : 
 - Lien vers l'article de Medipart : https://www.mediapart.fr/journal/france/190718/l-affaire-benalla-seme-la-panique-l-elysee
 - Objectif : Répondre à ces questions :
@@ -19,6 +13,12 @@
   - Le journaliste cite-t-il ses sources ?
   - D’où viennent les informations / quelles sont les sources ?
   - Ces sources sont-elles fiables ? Pourquoi ?
+
+## Grille d'analyse de la qualité d'une source :
+- [Référentiel de qualité de l’information par le CTREQ](http://www.ctreq.qc.ca/wp-content/uploads/2016/01/2_Qualit%C3%A9-de-linformation.pdf)
+- [Vidéo d'analyse](https://youtu.be/nQ3aaPaHCB4)
+- Lien vers l'article de Fdesouche sur le fils de Christiane Taubira en prison : http://www.fdesouche.com/406280-christiane-taubira-a-tente-de-faire-annuler-la-condamnation-de-son-fils
+- Lien vers l'article du Monde "Pourquoi certaines figures scientifiques sont climato-sceptiques ?" : http://passeurdesciences.blog.lemonde.fr/2016/12/28/pourquoi-certains-nient-les-resultats-de-la-science/
 
 ## Concevoir un schéma :
 - Les logiciels possibles :
@@ -80,7 +80,7 @@
 - Une vidéo
 
 **Soutenances :**
-- Le 20 décembre
+- En décembre
 - 20 minutes par groupe
 - 10 minutes de présentation
 - 10 minutes de questions du jury
